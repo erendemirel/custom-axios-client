@@ -4,4 +4,4 @@ Http client using _axios.create([config])_ and _axios#request(config)_ ready to 
 
 ``import {axiosClient} from "./client"``
 
-Refer to the jsdoc inside the code for more info
+Refer to the jsdoc inside the code for more info and its usage
